@@ -1,0 +1,25 @@
+
+# Python environment
+venv/
+__pycache__/
+*.py[cod]
+
+# Test cache
+.pytest_cache/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Personal screenshots
+images/
+private_images/
+personal_screenshots/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Editor settings
+.vscode/
